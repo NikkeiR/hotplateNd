@@ -9,4 +9,3 @@ Site published at: https://nikkeir.github.io/hotplateNd/
 
 ## Author
 [Rolandas](https://github.com/NikkeiR)
-[LinkedIn](www.linkedin.com/in/rolandas-urnikis-a9943420a)
